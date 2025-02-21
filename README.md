@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/freestylerms09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="freestylerms09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manpreet singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manpreet singh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/schellscripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="schellscripter" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shellscripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="schellscripter" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shellscripter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shellscripter" height="30" width="40" /></a>
 </p>
 
