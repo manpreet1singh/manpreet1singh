@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **grogolbal**
+- 🔭 I’m currently a Software Engineer Intern at **Quokka Labs**
 
 - 👨‍💻 All of my projects are available at [https://manpreetsinghportfolio.netlify.app/](https://manpreetsinghportfolio.netlify.app/)
 
